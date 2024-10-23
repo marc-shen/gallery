@@ -19,6 +19,8 @@ Gallery-Portfolio
 
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%linyuxuanlin%2FGallery-Portfolio&env=R2_ACCESS_KEY_ID,R2_SECRET_ACCESS_KEY,R2_BUCKET_NAME,R2_ENDPOINT,R2_IMAGE_BASE_URL,R2_IMAGE_DIR,IMAGE_COMPRESSION_QUALITY"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
+控制台https://vercel.com
+
 ## 功能特性
 
 - 瀑布流布局展示照片
