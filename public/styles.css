@@ -18,7 +18,7 @@ body {
 
 header {
   width: 100%;
-  background-color: #004d40; /* 深绿色 */
+  background-color: #69A9FF; /* 蓝色 */
   color: white;
   padding: 15px 20px;
   display: flex;
@@ -79,7 +79,7 @@ header a img {
 
 footer {
   width: 100%;
-  background-color: #004d40; /* 深绿色 */
+  background-color: #69A9FF; /* 深绿色 */
   color: white;
   text-align: center;
   padding: 10px 0;
@@ -96,7 +96,7 @@ footer a {
 .load-more {
   padding: 10px 20px;
   margin: 20px 0;
-  background-color: #004d40; /* 深绿色 */
+  background-color: #69A9FF; /* 深绿色 */
   color: white;
   border: none;
   border-radius: 5px;
@@ -158,7 +158,7 @@ body.dark footer {
 
 #loading::after {
   content: "";
-  border: 4px solid #004d40;
+  border: 4px solid #69A9FF;
   border-top: 4px solid transparent;
   border-radius: 50%;
   width: 40px;
